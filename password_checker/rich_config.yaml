@@ -1,0 +1,12 @@
+# rich_config.yaml
+theme:
+  primary: bold blue
+  success: green
+  warning: yellow
+  error: red
+layout:
+  padding: 2
+  border: double
+logging:
+  level: INFO
+  format: "[{time} {level} {name}]: {message}"
